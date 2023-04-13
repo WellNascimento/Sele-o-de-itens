@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pizzaria</string>
+    <string name="Pepperoni">Pepperoni</string>
+    <string name="Mussarela">Mussarela</string>
+    <string name="Catupiry">Catupiry</string>
+    <string name="Portuguesa">Portuguesa</string>
+
+
+</resources>
